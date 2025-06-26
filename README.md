@@ -1,6 +1,6 @@
 # zk-Evote-HTLP
 
-This is the proof of concept presented in our paper "Scalable Self-Tallying e-Voting using Homomorphic Time-Lock Puzzles and zk-SNARKs".
+This is the proof of concept presented in our paper "[Scalable Self-Tallying e-Voting using Homomorphic Time-Lock Puzzles and zk-SNARKs](https://doi.org/10.1109/TNSE.2025.3550290)".
 
 ## Dependencies
 
